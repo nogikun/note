@@ -1,3 +1,6 @@
 [submodule "ragas"]
 	path = ragas
 	url = https://github.com/nogikun/study-ragas
+[submodule "langfuse"]
+	path = langfuse
+	url = git@github.com:nogikun/study-langfuse.git
